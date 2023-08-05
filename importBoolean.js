@@ -1,3 +1,3 @@
-const boolVal = require("./exportBoolean");
+const canDance = require("./exportBoolean");
 
-console.log(boolVal);
+console.log(canDance);

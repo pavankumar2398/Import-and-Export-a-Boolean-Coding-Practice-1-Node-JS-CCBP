@@ -1,3 +1,3 @@
-const boolVal = true;
+const canDance = true;
 
-module.exports = boolVal;
+module.exports = canDance;
